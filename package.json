@@ -1,0 +1,16 @@
+{
+  "name": "performance-tests-k6-requests-payload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "k6": "0.0.0"
+  }
+}
